@@ -71,3 +71,10 @@ p{
   clear: both;
   display: table;
 }
+.BY {
+  margin: auto;
+  width: auto;
+}
+.auto {
+  text-align: left;
+  font-size: 18px;
